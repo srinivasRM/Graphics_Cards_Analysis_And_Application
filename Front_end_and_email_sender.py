@@ -121,7 +121,7 @@ if st.button(label = 'Press the button to get a report to your email '):
         s.starttls()
 
         # Authentication
-        s.login(fromaddr, 'death@383')
+        s.login(fromaddr, 'pass@ord')
 
         # # Converts the Multipart msg into a string
         text = msg.as_string()
