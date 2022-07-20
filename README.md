@@ -35,7 +35,7 @@ refer to this file for the code - https://github.com/srinivasRM/Graphics_Cards_A
 
 As we can see after replacing the values that were greater than 0.75 with the mean of the data and replacing each value in the column with the Z-score i.e afte rnormalizing the data the dist plot shows less skewness when compored to the prior distplot. 
 
-## Testing various models
+## Testing various models(https://github.com/srinivasRM/Graphics_Cards_Analysis_And_Application/blob/main/Model.ipynb)
 Here is a table which represents the r2 and adjusted r2 of each model on the current data set. 
 
 ![models values](https://user-images.githubusercontent.com/94186999/179728871-0ea6635d-7908-45c4-9a5e-5fe3e0349968.JPG)
